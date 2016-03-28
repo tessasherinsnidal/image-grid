@@ -48,7 +48,7 @@ img {
 @media only screen and (min-width: 60em) {
 
    img:nth-child(1) {
-     display: 66.66%;
+     display: 66.6{1,4}%;
    }
 
   img:nth-child(2), img:nth-child(3), img:nth-child(4), img:nth-child(5) {
